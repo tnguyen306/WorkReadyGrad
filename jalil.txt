@@ -1,2 +1,0 @@
-# WorkReadyGrad
-WorkReadyGrad project
