@@ -2,15 +2,18 @@
 ------------------------------------*/
 .parallax-bg {
   position: relative;
-  background: url(../../img/bg/25.jpg) 50% no-repeat fixed;
+  background: url(../../img/WRG/130.jpg) 100% repeat fixed;
+  background-size: 100% 100%;
+  padding-top:150px;
+  padding-bottom:200px;
 }
 
 .parallax-bg:before {
-  width: 100%;
-  height: 100%;
+  width: 5%;
+  height: 50%;
   content: " ";
-  position: absolute;
-  background: rgba(255,255,255,0.85); 
+  position: relative;
+  background: rgba(0,0,0,0.8); 
 }
 
 .parallax-about .info-blocks-v2 {

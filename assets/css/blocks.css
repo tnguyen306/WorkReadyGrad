@@ -217,9 +217,7 @@
 }
 
 .breadcrumbs-v3.img-v3 {
-  background: url(../img/breadcrumbs/img3.jpg) no-repeat;
-  background-size: cover;
-  background-position: center center;
+  background: url(../img/WRG/banner.png) repeat;
 }
 
 .breadcrumbs-v3:after {
@@ -230,7 +228,7 @@
   height: 100%;
   content: " ";
   position: absolute;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0,0,0,0);
 }
 
 .breadcrumbs-v3 h1 {
@@ -1978,7 +1976,9 @@
 /*Parallax Team
 ------------------------------------*/
 .parallax-team {
-  background: url(../img/team/faces.jpg) 50% 0 repeat fixed;  
+  height:600px;
+  background: url(../img/WRG/115.png) 100% no-repeat fixed;  
+  background-size: 100% 100%;
 }
 
 .parallax-team,
@@ -1994,12 +1994,12 @@
   height: 100%; 
   content: " ";
   position: absolute;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.0);
 }
 
-/*Parallax Team*/
+/*Parallax Team*
 .parallax-team {
-  background: url(../img/team/faces.jpg) 50% 0 repeat fixed;  
+  background: url(../img/WRG/115.png) 100% 0 repeat fixed;  
 }
 
 .parallax-team,
@@ -2212,7 +2212,7 @@
   overflow: hidden;
   text-align: center;
   position: relative;
-  background: url(../img/bg/19.jpg) 50% 0 fixed;
+  background: url(../img/howitworks/104.png) 50% 0 fixed;
 }
 
 .parallax-counter-v4:after {
@@ -2224,7 +2224,7 @@
   height: 100%;
   text-align: center;
   position: absolute;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0);
 }
 
 .parallax-counter-v4 i {

@@ -9,8 +9,8 @@ var ContactPage = function () {
 			  map = new GMaps({
 				div: '#map',
 				scrollwheel: false,				
-				lat: 40.748866,
-				lng: -73.988366
+				lat: 33.745831,	//this location
+				lng: -84.414113
 			  });
 			  
 			  var marker = map.addMarker({

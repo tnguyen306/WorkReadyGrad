@@ -9,14 +9,14 @@ var ContactPage = function () {
 			  map = new GMaps({
 				div: '#map',
 				scrollwheel: false,				
-				lat: 40.748866,
-				lng: -73.988366
+				lat: 33.790819,
+				lng: -84.42771
 			  });
 			  
 			  var marker = map.addMarker({
-				lat: 40.748866,
-				lng: -73.988366,
-	            title: 'Company, Inc.'
+				lat: 33.790819,
+				lng: -84.42771
+	            title: 'Work Ready Grad'
 		       });
 			});
         },
