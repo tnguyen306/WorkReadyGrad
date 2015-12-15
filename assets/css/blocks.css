@@ -2212,7 +2212,7 @@
   overflow: hidden;
   text-align: center;
   position: relative;
-  background: url(../img/howitworks/104.png) 50% 0 fixed;
+  background: url(../img/howitworks/104.png) 100% fixed;
 }
 
 .parallax-counter-v4:after {
